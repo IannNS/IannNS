@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Iann</h1>
+<h1 align="center">Hi, I'm Iann</h1>
 <h3 align="center">A developer that tries his best to make things work</h3>
 
 - 🌱 I’m currently learning **Java and some other backend languages**
 
-- 📫 How to reach me **iannnschmith@gmail.com**
+- 📫 Reach me **iannnschmith@gmail.com**
 
-- ⚡ Fun fact **I wrote some storys and drawn for relaxing**
+- **I wrote some storys and drawn for relaxing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
