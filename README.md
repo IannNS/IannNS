@@ -1,7 +1,7 @@
-<h1 align="left">Oi, meu nome é Iann!</h1>
-<h2 align="left">Um dev que tenta dar o melhor de si mesmo para as coisas darem certo.</h3>
+<h1 align="left">// Oi, meu nome é Iann!</h1>
+<h3 align="left">Um grande amante de full-stack development</h3>
 
-- No momento, estou estudando **Java e algumas coisas de game-dev**
+- No momento, estou estudando: **Java e GML**
 - Contato: **iannnschmith@gmail.com**
 
-- **Esse lugar tem grande parte dos meus projetos pessoais e estudos**
+- **Esse lugar tem grande parte dos meus projetos pessoais e estudos!**
