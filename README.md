@@ -6,3 +6,4 @@
 - Esse lugar tem grande parte dos meus projetos pessoais e estudos!
 
 **I also speak and code in english. If u wanna talk about any of my projects, go on and reach me!**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iannns&" alt="iannns" /></p>
