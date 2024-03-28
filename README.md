@@ -3,5 +3,6 @@
 
 - No momento, estou estudando: **Java e GML**
 - Contato: **iannnschmith@gmail.com**
+- Esse lugar tem grande parte dos meus projetos pessoais e estudos!
 
-- **Esse lugar tem grande parte dos meus projetos pessoais e estudos!**
+**I also speak and code in english. If u wanna talk about any of my projects, go on and reach me!**
