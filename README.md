@@ -2,7 +2,7 @@
 
 <div align = "left">
   <p>
-    Sou um grande amante de full-stack development.Esse lugar tem grande parte dos meus projetos pessoais e estudos!
+    Sou um grande amante de full-stack development. Esse lugar tem grande parte dos meus projetos pessoais e estudos!
     <br>
     I also speak and code in english. If u wanna talk about any of my projects, go on and reach me!
   </p>
