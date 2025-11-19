@@ -1,21 +1,20 @@
-<h1 align="center">Hi, I'm Iann Schmith 👋</h1>
+<h1 align="center">Hi, I'm Iann Schmith!</h1>
 <p align="center">
-  Game Developer • Software Engineering Student • Java & GameMaker Fan
+  Game Developer • Software Development Student • Java, C# & GameMaker Fan
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Languages**  
-`Java` `SQL` `HTML/CSS` `JavaScript (basic)` `GML (GameMaker Language)`
+`Java` `Spring` `C#` `.Net` `SQL` `HTML/CSS` `JavaScript (basic)` `React` `GML (GameMaker Language)`
 
 **Tools**  
-`GameMaker Studio 2` `Unity` `Git & GitHub` `Figma` `UML`
+`GameMaker Studio 2` `Unity` `Git & GitHub` `Figma` `UML` `Docker` `Postman`
 
 **Areas of Focus**  
-- 2D Game Physics & Movement Systems  
-- Clean Code and OOP  
-- Gameplay Programming  
+- Web Development
+- 2D Game Development 
 - UI/UX Prototyping  
 - Software Modeling  
