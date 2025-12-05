@@ -11,7 +11,7 @@
 `Java` `Spring` `C#` `.Net` `SQL` `HTML/CSS` `JavaScript (basic)` `React` `GML (GameMaker Language)`
 
 **Tools**  
-`GameMaker Studio 2` `Unity` `Git & GitHub` `Figma` `UML` `Docker` `Postman`
+`GameMaker Studio 2` `Unity` `Git & GitHub` `Figma` `UML` `Docker` `Postman` `AWS`
 
 **Areas of Focus**  
 - Web Development
