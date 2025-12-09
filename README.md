@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Iann Schmith!</h1>
 <p align="center">
-  Game Developer • Software Development Student • Java, C# & GameMaker Fan
+  Game Developer • Full-Stack Development Student • Java and React
 </p>
 
 ---
